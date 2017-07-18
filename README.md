@@ -3,7 +3,6 @@
 
 
 
-
 CHECK THE GAME OUT BY USING THE EXECUTABLE JAR (VIRTUAL-PETS.jar)
 #################################################################
 
