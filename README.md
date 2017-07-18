@@ -1,2 +1,2 @@
 # Pets-Game
-My first app that i had developed from start to finish.
+Game still requires alot of aesthetics!!!!!! But all features work correctly.
